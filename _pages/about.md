@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+博士，天津大学智能与计算学部高级工程师，硕士生导师，IEEE、CCF会员，CCF物联网专委执行委员，CCF网络与数据通信专委执行委员。主要从事工业物联网、区块链、自然语言处理、数据挖掘等相关研究工作。近年来在IEEE TII、IEEE IoTJ、IEEE Globecom、ECAI等各类国际期刊会议中发表科技论文50余篇，获20余项授权国家发明专利和软件著作权。承担国家自然科学基金重大研究计划子课题1项，天津市自然科学基金1项，参与多项国家自然科学基金和重点研发计划项目。作为参与人获天津市科技进步一等奖1项。担任IT学科创新创业训练基地指导教师，指导学生参加全国大学生机器人大赛RoboMaster机甲大师赛、全国大学生智能汽车竞赛、中国机器人及人工智能大赛等多项高水平各学科竞赛，获得60余项国家级和省部级奖励。作为参与人获国家级教学成果奖二等奖1项、天津市教学成果奖一等奖1项、天津市教学成果奖二等奖2项、天津大学教学成果奖一等奖2项。获2019年天津大学沈志康奖教金。
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
