@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "学术研究"
+  - title: "talks"
     url: /talks/   
+
+  - title: "学术研究"
+    url: /research/   
   
   - title: "学术成果"
     url: /publications/
