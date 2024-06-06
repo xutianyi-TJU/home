@@ -1,9 +1,11 @@
 ---
 layout: archive
-permalink: /reserch/
+title: "research"
+permalink: /research/
 author_profile: true
+redirect_from:
+  - /resume
 ---
-
 
 
 
