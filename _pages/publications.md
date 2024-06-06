@@ -5,8 +5,7 @@ author_profile: true
 ---
 
 
-发表论文
-======
+
 
  - 侯凯祥,邱铁,徐天一,周晓波,池建成. 带有预验证机制的区块链动态共识算法. 软件学报, 2024,35(5):2485−2502.                  
  - Mei Yu, Fan Gao, Mankun Zhao, Tianyi Xu, Jiujiang Guo, Wenbin Zhang, Dejun Hou, and Ruiguo Yu*. AttFGCN: A GCN-Based Method Using
