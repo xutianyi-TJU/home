@@ -24,3 +24,7 @@ Attention Flow for Knowledge Graph Completion. In Proceedings of The 2024 Intern
  - Jianrong Wang, Yangyifan Zhou, Xuewei Li, Tianyi Xu*, Tie Qiu. A node rating based sharding scheme for blockchain.2019 IEEE 25th International Conference on Parallel and Distributed Systems . IEEE, 2019.        
  - Chunfeng Liu, Ying Liu, Mei Yu, Ruiguo Yu, Xuewei Li, Mankun Zhao, Tianyi Xu, Hongwei Liu, Linying Xu, Jian Yu*. RL4HIN: Representation Learning for Heterogeneous Information Networks.&nbsp;2019 GLOBECOM, 2019.         
  - Ruiguo Yu, Jie Gao, Mei Yu*, Wenhuan Lu, Tianyi Xu, Mankun Zhao, Jie Zhang, Ruixuan Zhang, Zhuo Zhang. LSTM-EFG for wind power forecasting based on sequential correlation features. Future Generation Computer Systems, 2019. 
+
+
+授权专利
+======
