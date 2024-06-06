@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+# 发表论文
 
 
  - 侯凯祥,邱铁,徐天一,周晓波,池建成. 带有预验证机制的区块链动态共识算法. 软件学报, 2024,35(5):2485−2502.                  
@@ -25,5 +25,5 @@ Attention Flow for Knowledge Graph Completion. In Proceedings of The 2024 Intern
  - Ruiguo Yu, Jie Gao, Mei Yu*, Wenhuan Lu, Tianyi Xu, Mankun Zhao, Jie Zhang, Ruixuan Zhang, Zhuo Zhang. LSTM-EFG for wind power forecasting based on sequential correlation features. Future Generation Computer Systems, 2019. 
 
 
-授权专利
-======
+# 授权专利
+
