@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "基本介绍"
+title                    : "首页"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
