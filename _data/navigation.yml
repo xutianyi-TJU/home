@@ -13,10 +13,16 @@ main:
     url: /teaching/    
     
   - title: "教学获奖"
-    url: /portfolio/
+    url: /teachingaward/
+
+  - title: "联系方式"
+    url: /contact/
         
-  - title: "联系我们"
+  - title: "year-archive"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
+
+  - title: "portfolio"
+    url: /portfolio/
