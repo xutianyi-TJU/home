@@ -18,4 +18,5 @@ main:
   - title: "联系我们"
     url: /year-archive/
     
-
+  - title: "CV"
+    url: /cv/
